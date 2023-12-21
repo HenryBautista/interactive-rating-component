@@ -1,3 +1,5 @@
+let selected = 0
+
 $(document).ready(function () {
     $(window).on('hashchange', function() {
         const page = window.location.hash.slice(1);
