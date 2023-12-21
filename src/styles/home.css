@@ -61,6 +61,14 @@
     align-items: center;
 }
 
+.circle-button-mid:hover {
+    background-color: #7C8798;
+}
+
+.circle-button-mid.selected {
+    background-color: #FC7614;
+}
+
 .submit-section {
     width: 100%;
 }
@@ -74,6 +82,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.submit-button:hover {
+    color: #FC7614;
+    background-color: white;
 }
 
 .submit-button > p {
