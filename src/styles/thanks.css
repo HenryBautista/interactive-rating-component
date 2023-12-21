@@ -1,0 +1,21 @@
+.wrapper {
+    align-items: center;
+}
+
+.submit-button {
+    height: 32px;
+    border-radius: 22.5px;
+    color: #FC7614;
+    width: auto;
+    background-color: #262E38;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+
+    padding: 5px 20px;
+}
+
+.title.center {
+    text-align: center;
+}
